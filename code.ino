@@ -1,5 +1,4 @@
-#define LIGHT_PIN A0 // Replace A0 with your pin 
-#define LIGHT_LEVEL_HIGH_THRESHOLD 800 // Replace with your own light level 
+#define LIGHT_LEVEL_HIGH_THRESHOLD 800
 #define LIGHT_LEVEL_LOW_THRESHOLD 200
 void setup() {
 } 
